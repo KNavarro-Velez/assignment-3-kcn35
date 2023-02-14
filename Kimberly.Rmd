@@ -18,8 +18,45 @@ knitr::opts_chunk$set(echo = TRUE)
 ### A little bit about me:  
 
 * I am from Colombia  
-* I study birds ecology
+* I study birds ecology and conservation
 * I love learning about different cultures   
 * I love traveling   
 * I don't like heights!
+
+<center> ![](https://freeway.tur.br/userfiles/166128976.jpg){width=70%} </center>
+
+<br>
+
+### Countries I have visited
+
+* Mexico  
+* Ecuador  
+* Portugal  
+* Spain  
+* Venezuela  
+* Puerto Rico  
+* Dominican Repubic  
+
+<br>
+
+![](https://travellersworldwide.com/wp-content/uploads/2022/06/shutterstock_1714807885.jpg.webp)
+<center> Portugal is one of my favorite places in the world </center>
+
+<br>
+
+### Where I want to go next?
+
+<br>
+
+<center> ![](https://ik.imgkit.net/3vlqs5axxjf/TW/ik-seo/uploadedImages/All_TW_Art/Shutterstock_Art/2021/T0621EUROPEMAP_SS_HR/Where-can-Americans-travel-in-Europe%3f-A-country-by.jpg?tr=w-780%2Ch-440%2Cfo-auto) </center>
+
+<br>
+
+* Italy  
+* France  
+* Ireland  
+* Switzerland  
+* New Zealand  
+* Argentina  
+* Costa Rica  
 
