@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-### A little bit about me:  
+### A little bit about me:   
 
 * I am from Colombia  
 * I study birds ecology and conservation
@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-### Countries I have visited
+### Countries I have visited   
 
 * Mexico  
 * Ecuador  
@@ -44,7 +44,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-### Where I want to go next?
+### Where I want to go next?   
 
 <br>
 
