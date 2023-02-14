@@ -1,0 +1,25 @@
+---
+title: "Kim"
+author: "K.Navarro-Velez"
+date: "2/14/2023"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<center>
+# Kimberly
+</center>
+
+<br>
+
+### A little bit about me:  
+
+* I am from Colombia  
+* I study birds ecology
+* I love learning about different cultures   
+* I love traveling   
+* I don't like heights!
+

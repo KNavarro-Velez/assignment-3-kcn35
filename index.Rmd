@@ -1,0 +1,20 @@
+---
+title: "index"
+author: "K.Navarro-Velez"
+date: "2/14/2023"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<center>
+# WELCOME BIENVENIDOS բիենվենիդոս BIENVENUE
+<center/>
+
+This page was created by Kimberly Navarro-Velez [https://github.com/KNavarro-Velez](url) and XXXXX
+[](url)
+
+### We are students at... Cornell University in Ithaca, NY.
+![](https://www.cornell.edu/visit/assets/images/video-poster.jpg)
