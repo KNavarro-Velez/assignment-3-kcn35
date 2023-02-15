@@ -1,0 +1,19 @@
+---
+title: "Wyatt.Rmd"
+author: "Wyatt"
+date: "2023-02-15"
+output: html_document
+---
+
+# Wyatt Yapoujian 
+
+## A little about me; 
+* I am an undergraduate student here at Cornell University studying Environment and Sustainability.
+* I am from Colorado, where I grew up on a cattle ranch.
+* Some of my hobbies consist of hunting, fishing, and hiking 
+* My first ever pet was a black lab named Brooke
+
+Top 3 favorite sports; 
+1 Hockey
+2 Football
+3 Lacrosse
