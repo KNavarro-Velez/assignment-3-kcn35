@@ -5,7 +5,8 @@ navbar:
       href: index.html
     - text: "Kimberly"
       href: Kimberly.html
-      
+    - text: "Wyatt"
+      href: wyatt.html
 output:
   html_document:
     theme: sandstone
